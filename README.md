@@ -1,2 +1,2 @@
 # GitForJenkins
-git knowledge
+git knowledge is
