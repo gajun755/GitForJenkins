@@ -1,2 +1,2 @@
 # GitForJenkins
-git knowledge is very
+git knowledge is very important
